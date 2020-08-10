@@ -1,6 +1,6 @@
 # EDGE Autosplitter
 ## Information
-This Autosplitter starts on selecting a level, splits at the end of every level and resets when returning to the menu. There is also the option to use the In-Game timer and to pause when gaining EDGE time.
+This Autosplitter works for the PC version of the game and starts on selecting a level, splits at the end of every level and resets when returning to the menu. There is also the option to use the In-Game timer and to pause when gaining EDGE time.
 ## How to install
 * Open LiveSplit
 * Right click the window and select "Edit Splits"
