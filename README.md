@@ -7,7 +7,7 @@ This Autosplitter works for the PC version of the game and starts on selecting a
 * Choose EDGE as Game Name
 * Click the "Activate" button for the Autosplitter
 ### If activating the Autosplitter in LiveSplit doesn't work
-* Download the .asl file from [here](https://www.speedrun.com/tools/EDGE_atbh8.lss)
+* Download the .asl file from [here](https://github.com/RoboLP/EDGE-Autosplitter/archive/master.zip)
 * Open LiveSplit, right click the window and select "Edit Layout"
 * Select "+", "Control", "Scriptable Auto Splitter" and double click it
 * Click on "Browse" and put in the path to the .asl file
