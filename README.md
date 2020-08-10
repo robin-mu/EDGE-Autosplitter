@@ -7,7 +7,7 @@ This Autosplitter starts on selecting a level, splits at the end of every level 
 * Choose EDGE as Game Name
 * Click the "Activate" button for the Autosplitter
 ### If activating the Autosplitter in LiveSplit doesn't work
-* Download the EDGE.asl file from here
+* Download the EDGE.asl file from [here](https://www.speedrun.com/tools/EDGE_atbh8.lss)
 * Open LiveSplit, right click the window and select "Edit Layout"
 * Select "+", "Control", "Scriptable Auto Splitter" and double click it
 * Click on "Browse" and put in the path to the EDGE.asl file
