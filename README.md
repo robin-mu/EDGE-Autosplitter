@@ -14,4 +14,5 @@ This Autosplitter starts on selecting a level, splits at the end of every level 
 ## Links
 * [Leaderboard](https://www.speedrun.com/edge)
 * [Game](https://store.steampowered.com/app/38740/EDGE)
+
 If there are any problems, contact RoboLP#6634 on Discord.
