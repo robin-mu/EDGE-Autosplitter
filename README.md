@@ -15,4 +15,4 @@ This Autosplitter works for the PC version of the game and starts on selecting a
 * [Leaderboard](https://www.speedrun.com/edge)
 * [Game](https://store.steampowered.com/app/38740/EDGE)
 
-If there are any problems, contact Robin#8168 on Discord.
+If there are any problems, contact robin.mu on Discord.
